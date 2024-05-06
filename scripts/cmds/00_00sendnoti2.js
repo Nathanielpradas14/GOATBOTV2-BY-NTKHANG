@@ -44,7 +44,7 @@ https://www.facebook.com/swordigo.swordslush`,
 				await api.sendMessage(
 					`✱:｡✧𝗔𝗡𝗡𝗢𝗨𝗡𝗖𝗘𝗠𝗘𝗡𝗧✧｡:✱
 ━━━━━━━━━━━━━━━━━━━
-👤  | 𝗡𝗔𝗠𝗘: CLIFF VINCENT シ︎
+👤  | 𝗡𝗔𝗠𝗘: ERICSON PASCUA
 ━━━━━━━━━━━━━━━━━━━
 ╭┈ ❒ 💬 | 𝗠𝗘𝗦𝗦𝗔𝗚𝗘:
 ╰┈➤ ${custom}
