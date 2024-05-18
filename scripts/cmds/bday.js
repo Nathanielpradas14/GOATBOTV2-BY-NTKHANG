@@ -2,7 +2,7 @@ module.exports = {
 	config: {
 		name: "bday",
 		version: "1.0",
-		author: "Samir",
+		author: "ericson終.",
 		aliases: ["birthday"],
 		countDown: 5,
 		role: 0,
@@ -16,7 +16,7 @@ module.exports = {
 	},
 
 	onStart: async function ({ event, api }) {
-		const t = Date.parse("november 18, 2023 00:00:00") - Date.parse(new Date());
+		const t = Date.parse("july 30, 2024 00:00:00") - Date.parse(new Date());
 		const seconds = Math.floor( (t/1000) % 60 );
 		const minutes = Math.floor( (t/1000/60) % 60 );
 		const hours = Math.floor( (t/(1000*60*60)) % 24 );
