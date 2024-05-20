@@ -30,7 +30,7 @@
   "GENDER": "male",
   "nickNameBot": "ericson",
   "FACEBOOK": "https://www.facebook.com/ericsonpascua6",
-  "prefix": "/",
+  "prefix": "-",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
